@@ -6,6 +6,6 @@ package pranav.com.testlib;
 public class TestClass  {
 
 	public String printText(){
-		return ("This is a test...");
+		return ("This is a test case #2");
 	}
 }
